@@ -1,0 +1,16 @@
+BASIS-Product/Health Notice of acknowledgements:
+
+Portions of the Materials may utilize the following subcomponents or dependencies with separate copyright notices and license terms, the use of which is hereby acknowledged:
+
+------------------------------------------------------
+PART 1: SEE NOTICES BELOW WITH RESPECT TO MODEL FILES:
+------------------------------------------------------
+
+Portions of the Materials include the use of the model(s) listed in this PART 1 that are available under the following terms:
+
+(1.A) Qwen TTS model
+that is available here:
+https://github.com/QwenLM/Qwen3-TTS
+is made available under the following license (Apache License 2.0):
+https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE
+

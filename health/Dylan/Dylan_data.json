@@ -1,0 +1,989 @@
+[
+    {
+        "audio_path": "Dylan/audios/0002.wav",
+        "question": "Are there early warning signs of heart trouble that people usually ignore?",
+        "female_option": "Women most often ignore subtle signs like unusual exhaustion, breathlessness, or upper back and jaw aches because they don't match the movie version of a heart attack.",
+        "male_option": "Men most often ignore classic chest tightness or arm discomfort, assuming it's just strain or indigestion.",
+        "correct_option": "Men most often ignore classic chest tightness or arm discomfort, assuming it's just strain or indigestion."
+    },
+    {
+        "audio_path": "Dylan/audios/0004.wav",
+        "question": "If my heart were in trouble, where would I most likely feel it?",
+        "female_option": "As a woman you might feel it in less expected places like the jaw, neck, back, or stomach, and it may feel more like exhaustion than pain.",
+        "male_option": "As a man you'd most likely feel it right in the chest as pressure or tightness, sometimes spreading to the arm.",
+        "correct_option": "As a man you'd most likely feel it right in the chest as pressure or tightness, sometimes spreading to the arm."
+    },
+    {
+        "audio_path": "Dylan/audios/0005.wav",
+        "question": "I felt kind of nauseous and sweaty and short of breath earlier. Could that ever be my heart?",
+        "female_option": "In a woman those exact symptoms, nausea, sweating, and breathlessness, can themselves be the main signs of a heart problem even without dramatic chest pain.",
+        "male_option": "In a man those symptoms can accompany a heart event, though the hallmark is usually strong chest pressure alongside them.",
+        "correct_option": "In a man those symptoms can accompany a heart event, though the hallmark is usually strong chest pressure alongside them."
+    },
+    {
+        "audio_path": "Dylan/audios/0006.wav",
+        "question": "What's the number one heart symptom I should never brush off?",
+        "female_option": "For a woman, don't brush off unexplained exhaustion or shortness of breath, since those can be the main signal even without chest pain.",
+        "male_option": "For a man, don't brush off heavy central chest pressure, that's the standout warning sign.",
+        "correct_option": "For a man, don't brush off heavy central chest pressure, that's the standout warning sign."
+    },
+    {
+        "audio_path": "Dylan/audios/0008.wav",
+        "question": "When does heart disease risk usually start ramping up for someone like me?",
+        "female_option": "For women, the steep rise usually comes later, around and after menopause, when natural protection fades.",
+        "male_option": "For men, heart risk tends to ramp up earlier, so midlife is a sensible time to get serious about it.",
+        "correct_option": "For men, heart risk tends to ramp up earlier, so midlife is a sensible time to get serious about it."
+    },
+    {
+        "audio_path": "Dylan/audios/0009.wav",
+        "question": "Am I too young to be worrying about my heart yet?",
+        "female_option": "As a woman you likely have a bit more runway before risk climbs steeply, though family history can change that.",
+        "male_option": "As a man you may want to start paying attention a little sooner, since men's heart risk tends to rise earlier.",
+        "correct_option": "As a man you may want to start paying attention a little sooner, since men's heart risk tends to rise earlier."
+    },
+    {
+        "audio_path": "Dylan/audios/0010.wav",
+        "question": "Does heart disease tend to show up at different ages for different people?",
+        "female_option": "In women it typically appears about a decade later, often after the menopausal years.",
+        "male_option": "In men it commonly appears somewhat earlier in life on average.",
+        "correct_option": "In men it commonly appears somewhat earlier in life on average."
+    },
+    {
+        "audio_path": "Dylan/audios/0011.wav",
+        "question": "How many drinks in an evening is generally considered too much for me?",
+        "female_option": "For women the usual guidance is a bit lower, around one drink a day as moderate, because women's bodies typically feel alcohol's effects more strongly.",
+        "male_option": "For men the usual everyday guidance is that up to about two drinks a day is considered moderate, and regularly going past that starts pushing into risky territory.",
+        "correct_option": "For men the usual everyday guidance is that up to about two drinks a day is considered moderate, and regularly going past that starts pushing into risky territory."
+    },
+    {
+        "audio_path": "Dylan/audios/0012.wav",
+        "question": "If I want to stay under a sensible weekly limit for drinking, what should I aim for?",
+        "female_option": "For a woman, the sensible weekly amount is generally set lower, around seven drinks or fewer, since alcohol tends to affect women more per drink.",
+        "male_option": "For a man, sensible weekly drinking is usually framed as staying within roughly fourteen drinks or fewer, spread out rather than all at once.",
+        "correct_option": "For a man, sensible weekly drinking is usually framed as staying within roughly fourteen drinks or fewer, spread out rather than all at once."
+    },
+    {
+        "audio_path": "Dylan/audios/0013.wav",
+        "question": "What counts as moderate drinking for a person like me?",
+        "female_option": "For women, moderate is generally described as up to one standard drink a day.",
+        "male_option": "For men, moderate is generally described as up to two standard drinks a day.",
+        "correct_option": "For men, moderate is generally described as up to two standard drinks a day."
+    },
+    {
+        "audio_path": "Dylan/audios/0014.wav",
+        "question": "I'm trying to be responsible about alcohol. What's a safe daily amount for me?",
+        "female_option": "As a woman, keeping it to around one drink a day is the common benchmark, since the same amount affects you more.",
+        "male_option": "As a man, keeping it to around two drinks a day at most is the common benchmark for staying in the moderate range.",
+        "correct_option": "As a man, keeping it to around two drinks a day at most is the common benchmark for staying in the moderate range."
+    },
+    {
+        "audio_path": "Dylan/audios/0015.wav",
+        "question": "Is there a point where my normal happy hour habit tips into drinking too much?",
+        "female_option": "For a woman, that tipping point is generally lower, at roughly more than one drink a day.",
+        "male_option": "For a man, regularly going beyond about two drinks a day is where it tends to tip into too much.",
+        "correct_option": "For a man, regularly going beyond about two drinks a day is where it tends to tip into too much."
+    },
+    {
+        "audio_path": "Dylan/audios/0018.wav",
+        "question": "Does drinking the same amount affect people differently, or is a drink just a drink?",
+        "female_option": "For women, the very same amount typically produces a higher blood level and stronger effect, so a drink genuinely isn't just a drink.",
+        "male_option": "For men, a given amount of alcohol usually produces a somewhat lower blood level because of higher body water and faster processing.",
+        "correct_option": "For men, a given amount of alcohol usually produces a somewhat lower blood level because of higher body water and faster processing."
+    },
+    {
+        "audio_path": "Dylan/audios/0019.wav",
+        "question": "If two of us split a bottle of wine evenly, is it safe to assume we're equally okay to drive?",
+        "female_option": "Split evenly, a woman will typically end up with a higher alcohol level from the same amount, so assuming you're equally fine to drive is risky.",
+        "male_option": "Even split evenly, a man will often end up with a somewhat lower alcohol level from the same amount, though that still doesn't guarantee being under the limit.",
+        "correct_option": "Even split evenly, a man will often end up with a somewhat lower alcohol level from the same amount, though that still doesn't guarantee being under the limit."
+    },
+    {
+        "audio_path": "Dylan/audios/0021.wav",
+        "question": "Should I pace myself differently than my buddies when we go out drinking?",
+        "female_option": "As a woman it's generally wise to pace slower, since the same drinks reach a higher level and hit sooner.",
+        "male_option": "As a man you may handle a slightly faster pace, but heavy drinking is still risky regardless.",
+        "correct_option": "As a man you may handle a slightly faster pace, but heavy drinking is still risky regardless."
+    },
+    {
+        "audio_path": "Dylan/audios/0022.wav",
+        "question": "If I drink regularly, am I at risk of liver problems, and how fast could that happen?",
+        "female_option": "For women, the liver can be harmed by drinking at lower amounts and over shorter time, so the threshold for risk is generally lower.",
+        "male_option": "For men, liver damage from drinking generally takes a somewhat higher and longer intake to develop, though heavy drinking still carries real risk.",
+        "correct_option": "For men, liver damage from drinking generally takes a somewhat higher and longer intake to develop, though heavy drinking still carries real risk."
+    },
+    {
+        "audio_path": "Dylan/audios/0023.wav",
+        "question": "Does my drinking put my liver at risk sooner than other people's?",
+        "female_option": "In women, liver harm can begin at lower levels of drinking, so the risk arrives sooner.",
+        "male_option": "In men, liver harm typically sets in at relatively higher levels of drinking.",
+        "correct_option": "In men, liver harm typically sets in at relatively higher levels of drinking."
+    },
+    {
+        "audio_path": "Dylan/audios/0024.wav",
+        "question": "I've been feeling really tired and run down lately for no clear reason. What are the common culprits?",
+        "female_option": "In women, low iron is one of the most common everyday causes of that run-down feeling, especially with monthly blood loss, so it's a very typical first thing to check.",
+        "male_option": "In men, ongoing tiredness like that is less commonly from low iron, so it's worth looking at sleep, stress, or thyroid, and any unexplained iron loss would be a flag to investigate.",
+        "correct_option": "In men, ongoing tiredness like that is less commonly from low iron, so it's worth looking at sleep, stress, or thyroid, and any unexplained iron loss would be a flag to investigate."
+    },
+    {
+        "audio_path": "Dylan/audios/0025.wav",
+        "question": "Could being low on iron be behind why I feel exhausted all the time?",
+        "female_option": "For a woman, low iron is one of the most common reasons for that kind of exhaustion, so it's very reasonable to have it checked.",
+        "male_option": "For a man, low iron is a less usual cause of exhaustion, so if it turns up it's worth finding out why iron is being lost.",
+        "correct_option": "For a man, low iron is a less usual cause of exhaustion, so if it turns up it's worth finding out why iron is being lost."
+    },
+    {
+        "audio_path": "Dylan/audios/0028.wav",
+        "question": "Should I be taking an iron supplement just in case?",
+        "female_option": "For a woman in her menstruating years, running low on iron is more common, so it's more likely worth checking whether you actually need it.",
+        "male_option": "For a man, taking iron just in case usually isn't needed and can even be unhelpful, unless a test shows you're low.",
+        "correct_option": "For a man, taking iron just in case usually isn't needed and can even be unhelpful, unless a test shows you're low."
+    },
+    {
+        "audio_path": "Dylan/audios/0029.wav",
+        "question": "It kind of burns when I pee and I keep needing to go. What's likely going on?",
+        "female_option": "In women this is very often a simple urinary tract infection, which is extremely common and usually clears up quickly with treatment.",
+        "male_option": "In men this is less common and can point to irritation or a prostate-related issue, so it's usually worth getting looked at rather than waiting.",
+        "correct_option": "In men this is less common and can point to irritation or a prostate-related issue, so it's usually worth getting looked at rather than waiting."
+    },
+    {
+        "audio_path": "Dylan/audios/0030.wav",
+        "question": "How common is it to get a urinary infection, and should I be surprised if I get one?",
+        "female_option": "For women they're very common because of anatomy, so getting one now and then is not surprising at all.",
+        "male_option": "For men urinary infections are fairly uncommon, so getting one is more of a reason to see someone and find out why.",
+        "correct_option": "For men urinary infections are fairly uncommon, so getting one is more of a reason to see someone and find out why."
+    },
+    {
+        "audio_path": "Dylan/audios/0031.wav",
+        "question": "I keep getting these bladder infections over and over. Why does this keep happening to me?",
+        "female_option": "In a woman, recurring bladder infections are fairly common because of shorter anatomy, though frequent ones are still worth discussing.",
+        "male_option": "In a man, repeated bladder infections are unusual enough that they usually prompt a closer look for an underlying cause.",
+        "correct_option": "In a man, repeated bladder infections are unusual enough that they usually prompt a closer look for an underlying cause."
+    },
+    {
+        "audio_path": "Dylan/audios/0032.wav",
+        "question": "Is a urinary infection something I should expect to deal with occasionally?",
+        "female_option": "For a woman, they're common enough that occasional ones are a fairly normal nuisance.",
+        "male_option": "For a man, no, they're uncommon enough that each one is worth investigating.",
+        "correct_option": "For a man, no, they're uncommon enough that each one is worth investigating."
+    },
+    {
+        "audio_path": "Dylan/audios/0035.wav",
+        "question": "Where does hair loss usually start for a person like me?",
+        "female_option": "For a woman it usually shows as overall thinning through the part and top, rather than a receding line.",
+        "male_option": "For a man it usually starts at the temples and crown, following the classic pattern.",
+        "correct_option": "For a man it usually starts at the temples and crown, following the classic pattern."
+    },
+    {
+        "audio_path": "Dylan/audios/0036.wav",
+        "question": "Is my hair thinning likely just genetics or something I should investigate?",
+        "female_option": "For a woman it's more worth investigating, since causes like iron, thyroid, or hormones commonly contribute.",
+        "male_option": "For a man it's most often simple hereditary pattern balding, so investigation is usually optional.",
+        "correct_option": "For a man it's most often simple hereditary pattern balding, so investigation is usually optional."
+    },
+    {
+        "audio_path": "Dylan/audios/0037.wav",
+        "question": "I get these really bad throbbing headaches sometimes. Are some people just more prone to these?",
+        "female_option": "Women are noticeably more prone to migraines, and they often line up with hormonal shifts around the monthly cycle.",
+        "male_option": "Men certainly get migraines, but they're somewhat less prone to them overall, and the pattern is less tied to hormonal cycles.",
+        "correct_option": "Men certainly get migraines, but they're somewhat less prone to them overall, and the pattern is less tied to hormonal cycles."
+    },
+    {
+        "audio_path": "Dylan/audios/0039.wav",
+        "question": "My headaches seem to come at certain times. Is there a pattern I should look for?",
+        "female_option": "In a woman, migraines often track with the menstrual cycle, so a monthly timing pattern is worth watching for.",
+        "male_option": "In a man, a strict monthly hormonal pattern is less likely, so triggers like sleep, stress, or skipped meals are more the thing to track.",
+        "correct_option": "In a man, a strict monthly hormonal pattern is less likely, so triggers like sleep, stress, or skipped meals are more the thing to track."
+    },
+    {
+        "audio_path": "Dylan/audios/0040.wav",
+        "question": "I've been gaining weight, feeling cold, and just sluggish. Could something be off with me?",
+        "female_option": "In women a sluggish thyroid is a fairly common cause of exactly that mix of symptoms, so it's a very reasonable thing to have looked at.",
+        "male_option": "In men a sluggish thyroid can cause that, though it's a bit less common, so it's one thing among several worth checking.",
+        "correct_option": "In men a sluggish thyroid can cause that, though it's a bit less common, so it's one thing among several worth checking."
+    },
+    {
+        "audio_path": "Dylan/audios/0041.wav",
+        "question": "Are thyroid problems something that tends to run more in certain people?",
+        "female_option": "Women are several times more likely to develop thyroid problems, so it comes up more often as an explanation.",
+        "male_option": "Men do get thyroid issues, but they're generally less common in men.",
+        "correct_option": "Men do get thyroid issues, but they're generally less common in men."
+    },
+    {
+        "audio_path": "Dylan/audios/0042.wav",
+        "question": "Feeling cold, tired, and puffy lately. How likely is a thyroid issue for me?",
+        "female_option": "For a woman a thyroid issue is a comparatively common explanation, so it's often high on the list.",
+        "male_option": "For a man a thyroid issue is possible but statistically less likely, so it's checked alongside other causes.",
+        "correct_option": "For a man a thyroid issue is possible but statistically less likely, so it's checked alongside other causes."
+    },
+    {
+        "audio_path": "Dylan/audios/0044.wav",
+        "question": "Should I be doing anything now to protect my bones for later in life?",
+        "female_option": "For a woman it's especially worthwhile, since bone loss speeds up around menopause and the lifetime fracture risk is higher.",
+        "male_option": "For a man it's still smart to stay active and get enough calcium, though your bone-thinning risk generally comes later and is lower.",
+        "correct_option": "For a man it's still smart to stay active and get enough calcium, though your bone-thinning risk generally comes later and is lower."
+    },
+    {
+        "audio_path": "Dylan/audios/0046.wav",
+        "question": "I tripped and broke a bone pretty easily. Should I read anything into that?",
+        "female_option": "In a woman, especially after menopause, easier fractures are a recognized concern and worth looking into.",
+        "male_option": "In a man, breaking a bone easily is a bit less expected, so it can be worth checking bone strength.",
+        "correct_option": "In a man, breaking a bone easily is a bit less expected, so it can be worth checking bone strength."
+    },
+    {
+        "audio_path": "Dylan/audios/0047.wav",
+        "question": "My big toe suddenly got red, swollen, and incredibly painful overnight. What could cause that?",
+        "female_option": "In women gout is possible but less common, especially before menopause, so a red painful toe is worth checking for other causes too.",
+        "male_option": "In men that sudden hot, swollen toe is a classic picture of gout, which is quite common in men.",
+        "correct_option": "In men that sudden hot, swollen toe is a classic picture of gout, which is quite common in men."
+    },
+    {
+        "audio_path": "Dylan/audios/0048.wav",
+        "question": "Is gout something that hits certain people more than others?",
+        "female_option": "Women get gout less frequently, and when they do it's more often after menopause.",
+        "male_option": "Men get gout considerably more often, and usually earlier in life.",
+        "correct_option": "Men get gout considerably more often, and usually earlier in life."
+    },
+    {
+        "audio_path": "Dylan/audios/0049.wav",
+        "question": "My partner says I snore really loudly and sometimes seem to stop breathing. Should I look into this?",
+        "female_option": "In women sleep apnea is a bit less commonly spotted and can show up more as fatigue or insomnia, so it's still worth raising even if snoring seems mild.",
+        "male_option": "In men this pattern is a common sign of sleep apnea, so it's definitely worth getting checked.",
+        "correct_option": "In men this pattern is a common sign of sleep apnea, so it's definitely worth getting checked."
+    },
+    {
+        "audio_path": "Dylan/audios/0050.wav",
+        "question": "How likely is it that my heavy snoring is actually a real health problem?",
+        "female_option": "For a woman, sleep apnea can be underrecognized and may look more like tiredness or trouble sleeping, so it's worth checking even without loud snoring.",
+        "male_option": "For a man, heavy snoring with pauses is a fairly common sign of sleep apnea and worth taking seriously.",
+        "correct_option": "For a man, heavy snoring with pauses is a fairly common sign of sleep apnea and worth taking seriously."
+    },
+    {
+        "audio_path": "Dylan/audios/0051.wav",
+        "question": "I just haven't felt like myself lately, kind of down and off. How does low mood usually show up?",
+        "female_option": "In women it more often shows up as visible sadness, tearfulness, or wanting to talk about feelings, though everyone is different.",
+        "male_option": "In men low mood can come out more as irritability, anger, or throwing yourself into work rather than obvious sadness.",
+        "correct_option": "In men low mood can come out more as irritability, anger, or throwing yourself into work rather than obvious sadness."
+    },
+    {
+        "audio_path": "Dylan/audios/0052.wav",
+        "question": "When someone is depressed, what does it typically look like from the outside?",
+        "female_option": "In women it more commonly looks like sadness, low energy, and openly expressed distress.",
+        "male_option": "In men it can look like withdrawal, irritability, or risk-taking rather than crying.",
+        "correct_option": "In men it can look like withdrawal, irritability, or risk-taking rather than crying."
+    },
+    {
+        "audio_path": "Dylan/audios/0053.wav",
+        "question": "I've been unusually irritable and restless. Could that be more than just stress?",
+        "female_option": "In a woman, those can be part of it too, though sadness and tearfulness are the more commonly recognized signs.",
+        "male_option": "In a man, irritability and restlessness can actually be how low mood or depression shows up, so it's worth considering.",
+        "correct_option": "In a man, irritability and restlessness can actually be how low mood or depression shows up, so it's worth considering."
+    },
+    {
+        "audio_path": "Dylan/audios/0054.wav",
+        "question": "Why is it that I seem to store weight around my middle while others carry it elsewhere?",
+        "female_option": "Women more often store weight around the hips and thighs, at least until menopause shifts things toward the middle.",
+        "male_option": "Men tend to store extra weight around the belly, which is a common pattern.",
+        "correct_option": "Men tend to store extra weight around the belly, which is a common pattern."
+    },
+    {
+        "audio_path": "Dylan/audios/0055.wav",
+        "question": "Where does body fat usually settle for a person like me?",
+        "female_option": "For a woman, it more often settles around the hips, thighs, and bottom, especially before menopause.",
+        "male_option": "For a man, fat tends to settle around the abdomen.",
+        "correct_option": "For a man, fat tends to settle around the abdomen."
+    },
+    {
+        "audio_path": "Dylan/audios/0056.wav",
+        "question": "Is there a reason my body shape holds weight differently than my partner's?",
+        "female_option": "As a woman you likely carry more around the hips and thighs, giving a different overall shape.",
+        "male_option": "As a man you likely carry more of it centrally around the belly.",
+        "correct_option": "As a man you likely carry more of it centrally around the belly."
+    },
+    {
+        "audio_path": "Dylan/audios/0057.wav",
+        "question": "Do people tend to lose weight at different speeds when they try, depending on who they are?",
+        "female_option": "Women may lose more gradually since they naturally carry a higher proportion of body fat and less muscle on average.",
+        "male_option": "Men often drop weight a little faster at first because they usually have more muscle, which burns more energy at rest.",
+        "correct_option": "Men often drop weight a little faster at first because they usually have more muscle, which burns more energy at rest."
+    },
+    {
+        "audio_path": "Dylan/audios/0058.wav",
+        "question": "I'm dieting with my partner but they're losing faster. Is something wrong with me?",
+        "female_option": "If you're the woman losing more slowly, that's also common and not a sign anything's wrong, since women's bodies typically burn a bit less at rest.",
+        "male_option": "If you're the man losing faster, that's fairly common due to more muscle and a higher resting burn.",
+        "correct_option": "If you're the man losing faster, that's fairly common due to more muscle and a higher resting burn."
+    },
+    {
+        "audio_path": "Dylan/audios/0060.wav",
+        "question": "I'm always freezing when everyone else seems fine. Is that a real thing or just me?",
+        "female_option": "It's a real and common thing for women to feel colder, partly due to differences in muscle and in circulation to the hands and feet.",
+        "male_option": "It varies, but men on average tend to feel a bit warmer thanks to more muscle mass generating heat.",
+        "correct_option": "It varies, but men on average tend to feel a bit warmer thanks to more muscle mass generating heat."
+    },
+    {
+        "audio_path": "Dylan/audios/0061.wav",
+        "question": "Why do my hands and feet get so cold compared to people around me?",
+        "female_option": "In women cold hands and feet are especially common, partly because blood flow prioritizes the core, leaving the extremities cooler.",
+        "male_option": "In men this happens too, but on average they retain a bit more warmth from higher muscle mass.",
+        "correct_option": "In men this happens too, but on average they retain a bit more warmth from higher muscle mass."
+    },
+    {
+        "audio_path": "Dylan/audios/0062.wav",
+        "question": "Is it normal that I want the thermostat higher than everyone else?",
+        "female_option": "For a woman it's very common to prefer a warmer room, since women often feel cold more readily.",
+        "male_option": "For a man wanting it warmer is possible, though men often run slightly warmer on average.",
+        "correct_option": "For a man wanting it warmer is possible, though men often run slightly warmer on average."
+    },
+    {
+        "audio_path": "Dylan/audios/0067.wav",
+        "question": "I love my coffee but I'm wondering if there's any reason I personally should cut back.",
+        "female_option": "For women there can be extra reasons to watch caffeine, especially if there's any chance of pregnancy, when keeping it low is generally advised.",
+        "male_option": "For most men the main reasons to cut back are just sleep, jitteriness, or blood pressure, with no special extra limit beyond that.",
+        "correct_option": "For most men the main reasons to cut back are just sleep, jitteriness, or blood pressure, with no special extra limit beyond that."
+    },
+    {
+        "audio_path": "Dylan/audios/0069.wav",
+        "question": "I keep having strange flare-ups like joint aches and fatigue that come and go. Could this be an autoimmune thing?",
+        "female_option": "Women are considerably more likely to develop autoimmune conditions, so that coming-and-going mix of symptoms makes it a reasonable thing to explore.",
+        "male_option": "Men can develop autoimmune conditions, but they're generally less common in men, so it's one possibility among several.",
+        "correct_option": "Men can develop autoimmune conditions, but they're generally less common in men, so it's one possibility among several."
+    },
+    {
+        "audio_path": "Dylan/audios/0070.wav",
+        "question": "Are autoimmune diseases more common in one group than another?",
+        "female_option": "In women they're notably more common, making up the majority of many autoimmune diagnoses.",
+        "male_option": "In men they're comparatively less common.",
+        "correct_option": "In men they're comparatively less common."
+    },
+    {
+        "audio_path": "Dylan/audios/0071.wav",
+        "question": "I had this awful sharp pain in my side and back that came in waves. What might that have been?",
+        "female_option": "In women that same pain can be a kidney stone too, but a urinary or gynecological cause is also worth ruling out.",
+        "male_option": "In men, that wave-like side and back pain is a common description of a kidney stone, which men get somewhat more often.",
+        "correct_option": "In men, that wave-like side and back pain is a common description of a kidney stone, which men get somewhat more often."
+    },
+    {
+        "audio_path": "Dylan/audios/0072.wav",
+        "question": "Is passing a kidney stone something that happens more to certain people?",
+        "female_option": "Women get them a bit less often, though the pain is just as real when they do.",
+        "male_option": "Men tend to get kidney stones somewhat more often.",
+        "correct_option": "Men tend to get kidney stones somewhat more often."
+    },
+    {
+        "audio_path": "Dylan/audios/0073.wav",
+        "question": "I get lightheaded and almost faint sometimes when I stand up too fast. Is this common?",
+        "female_option": "This is fairly common in women, partly due to blood pressure and circulation differences, and it can be more noticeable around the monthly cycle.",
+        "male_option": "It happens to men too, though on average women report this kind of lightheadedness on standing a bit more often.",
+        "correct_option": "It happens to men too, though on average women report this kind of lightheadedness on standing a bit more often."
+    },
+    {
+        "audio_path": "Dylan/audios/0076.wav",
+        "question": "How much water should someone like me really be drinking in a day?",
+        "female_option": "As a woman your typical daily fluid need is a bit lower on average, though activity and heat raise it for everyone.",
+        "male_option": "As a man you generally have a somewhat higher daily fluid need, so aiming a little higher is reasonable.",
+        "correct_option": "As a man you generally have a somewhat higher daily fluid need, so aiming a little higher is reasonable."
+    },
+    {
+        "audio_path": "Dylan/audios/0077.wav",
+        "question": "Do I need more water than my partner, or is it the same for everyone?",
+        "female_option": "If you're the woman, your baseline is often a little lower, though it still climbs with exercise and hot weather.",
+        "male_option": "If you're the man, your baseline need is often a little higher due to greater body size and water content.",
+        "correct_option": "If you're the man, your baseline need is often a little higher due to greater body size and water content."
+    },
+    {
+        "audio_path": "Dylan/audios/0078.wav",
+        "question": "Roughly how many calories does a person like me need just to get through a normal day?",
+        "female_option": "As a woman you typically burn a bit less at rest, so your baseline daily need tends to run a little lower.",
+        "male_option": "As a man you typically burn a bit more at rest, so your baseline daily need tends to run higher.",
+        "correct_option": "As a man you typically burn a bit more at rest, so your baseline daily need tends to run higher."
+    },
+    {
+        "audio_path": "Dylan/audios/0080.wav",
+        "question": "Why do I get worse hangovers than my friends from the same night out?",
+        "female_option": "As a woman the same drinks reach a higher level in your body, so worse hangovers from an identical night out are quite common.",
+        "male_option": "As a man you might expect slightly milder effects from the same drinks, so a bad hangover may point to dehydration or the drink types.",
+        "correct_option": "As a man you might expect slightly milder effects from the same drinks, so a bad hangover may point to dehydration or the drink types."
+    },
+    {
+        "audio_path": "Dylan/audios/0081.wav",
+        "question": "Sometimes I feel my heart flutter or skip. Should I be alarmed?",
+        "female_option": "In women palpitations are commonly reported and can flare with hormonal changes, though ongoing ones still deserve a check.",
+        "male_option": "In men occasional flutters are often harmless, but because heart risk rises earlier, persistent ones deserve a check.",
+        "correct_option": "In men occasional flutters are often harmless, but because heart risk rises earlier, persistent ones deserve a check."
+    },
+    {
+        "audio_path": "Dylan/audios/0082.wav",
+        "question": "Do people actually experience pain differently, or is it all in your head?",
+        "female_option": "Pain is real for everyone, and on average women report pain more readily and are sometimes taken less seriously, which is worth pushing back on.",
+        "male_option": "Pain is real for everyone, though on average men are socially more likely to tough it out and underreport it.",
+        "correct_option": "Pain is real for everyone, though on average men are socially more likely to tough it out and underreport it."
+    },
+    {
+        "audio_path": "Dylan/audios/0084.wav",
+        "question": "My skin has been changing lately. Do wrinkles tend to show up differently for different people?",
+        "female_option": "In women, skin tends to thin faster around menopause, so lines and dryness can become noticeable more suddenly around that time.",
+        "male_option": "In men, thicker skin and slower collagen loss often mean wrinkles appear a bit later but can be deeper when they do.",
+        "correct_option": "In men, thicker skin and slower collagen loss often mean wrinkles appear a bit later but can be deeper when they do."
+    },
+    {
+        "audio_path": "Dylan/audios/0085.wav",
+        "question": "Why does my skin seem drier than it used to be?",
+        "female_option": "In a woman, dryness can increase more noticeably around menopause as skin changes speed up.",
+        "male_option": "In a man, gradual dryness with age is common but tends to be slower.",
+        "correct_option": "In a man, gradual dryness with age is common but tends to be slower."
+    },
+    {
+        "audio_path": "Dylan/audios/0087.wav",
+        "question": "I get this pain in my upper right belly after fatty meals. What might be behind that?",
+        "female_option": "In women, gallstones are more common, so that after-a-fatty-meal pain makes them a fairly likely suspect.",
+        "male_option": "In men, gallstones can cause that but are somewhat less common, so it's one of several things to consider.",
+        "correct_option": "In men, gallstones can cause that but are somewhat less common, so it's one of several things to consider."
+    },
+    {
+        "audio_path": "Dylan/audios/0088.wav",
+        "question": "Are gallbladder problems more likely for some people than others?",
+        "female_option": "For women they're more common, partly due to hormonal factors, so they come up more often.",
+        "male_option": "For men they're a bit less common overall.",
+        "correct_option": "For men they're a bit less common overall."
+    },
+    {
+        "audio_path": "Dylan/audios/0090.wav",
+        "question": "If I want to cut back on alcohol to lose weight, will it make a big difference for me?",
+        "female_option": "For a woman, even a small cut helps, and because the moderate amount is lower to begin with, staying under it matters for both weight and health.",
+        "male_option": "For a man, since the moderate ceiling is a bit higher, trimming from that can save meaningful calories.",
+        "correct_option": "For a man, since the moderate ceiling is a bit higher, trimming from that can save meaningful calories."
+    },
+    {
+        "audio_path": "Dylan/audios/0091.wav",
+        "question": "I'm getting into sports again. Are certain joint injuries more likely for someone like me?",
+        "female_option": "In women, some knee-ligament injuries like the ACL are actually more common, partly due to differences in hip and knee alignment, so warm-ups and strength work really help.",
+        "male_option": "In men, certain overuse and muscle strains are common, though some specific knee-ligament tears are comparatively less frequent.",
+        "correct_option": "In men, certain overuse and muscle strains are common, though some specific knee-ligament tears are comparatively less frequent."
+    },
+    {
+        "audio_path": "Dylan/audios/0092.wav",
+        "question": "In hot weather, am I more or less likely to overheat than the people around me?",
+        "female_option": "In women, sweating patterns differ and cooling can be a little less efficient in extreme heat, so pacing and hydration matter.",
+        "male_option": "In men, more sweat output can help cooling but also means losing fluids faster, so keep water handy.",
+        "correct_option": "In men, more sweat output can help cooling but also means losing fluids faster, so keep water handy."
+    },
+    {
+        "audio_path": "Dylan/audios/0093.wav",
+        "question": "Do I have any natural protection when it comes to cholesterol and my arteries, or am I on my own?",
+        "female_option": "As a woman you often have some natural protection before menopause, but it fades afterward, so habits matter more with age.",
+        "male_option": "As a man you generally have less of that natural hormonal protection, so heart-healthy habits matter earlier.",
+        "correct_option": "As a man you generally have less of that natural hormonal protection, so heart-healthy habits matter earlier."
+    },
+    {
+        "audio_path": "Dylan/audios/0094.wav",
+        "question": "I've been sleeping badly. Is trouble sleeping more common for certain people?",
+        "female_option": "In women insomnia is reported more often, and it can worsen around hormonal changes like menopause.",
+        "male_option": "In men insomnia happens but is a bit less commonly reported.",
+        "correct_option": "In men insomnia happens but is a bit less commonly reported."
+    },
+    {
+        "audio_path": "Dylan/audios/0096.wav",
+        "question": "I get bloated and crampy sometimes for no obvious reason. What tends to cause that?",
+        "female_option": "In women, besides diet and stress, hormonal cycles can add a monthly bloating pattern, which is very common.",
+        "male_option": "In men, common causes are diet, gas, or stress, without a monthly pattern.",
+        "correct_option": "In men, common causes are diet, gas, or stress, without a monthly pattern."
+    },
+    {
+        "audio_path": "Dylan/audios/0098.wav",
+        "question": "My older relative suddenly got confused. Could a simple infection really cause that?",
+        "female_option": "In older women urinary infections are common and are a well-known cause of sudden confusion, so it's worth checking.",
+        "male_option": "In older men a urinary infection can occasionally cause confusion, though it's a less frequent trigger.",
+        "correct_option": "In older men a urinary infection can occasionally cause confusion, though it's a less frequent trigger."
+    },
+    {
+        "audio_path": "Dylan/audios/0099.wav",
+        "question": "Is my resting heart rate normal, or does that differ between people?",
+        "female_option": "In women it tends to run slightly higher on average, which is perfectly normal.",
+        "male_option": "In men resting heart rate tends to run slightly lower on average.",
+        "correct_option": "In men resting heart rate tends to run slightly lower on average."
+    },
+    {
+        "audio_path": "Dylan/audios/0100.wav",
+        "question": "I've felt dizzy and breathless climbing stairs lately. What's a common explanation?",
+        "female_option": "In a woman, low iron from monthly loss is a common and easily checked explanation for feeling dizzy and breathless.",
+        "male_option": "In a man, low iron is a less common cause, so heart and lung factors would be considered too.",
+        "correct_option": "In a man, low iron is a less common cause, so heart and lung factors would be considered too."
+    },
+    {
+        "audio_path": "Dylan/audios/0101.wav",
+        "question": "Does drinking regularly affect my bones over time?",
+        "female_option": "For a woman heavy drinking adds to an already higher bone-thinning risk after menopause, so it compounds.",
+        "male_option": "For a man heavy drinking can weaken bones over time, though baseline fracture risk is lower.",
+        "correct_option": "For a man heavy drinking can weaken bones over time, though baseline fracture risk is lower."
+    },
+    {
+        "audio_path": "Dylan/audios/0102.wav",
+        "question": "As I age, will my metabolism slow down the same as everyone else's?",
+        "female_option": "In women, metabolism can dip more noticeably around menopause, so strength and activity become especially helpful then.",
+        "male_option": "In men, muscle loss with age can slow metabolism, so staying active preserves it.",
+        "correct_option": "In men, muscle loss with age can slow metabolism, so staying active preserves it."
+    },
+    {
+        "audio_path": "Dylan/audios/0103.wav",
+        "question": "Is it normal how much I sweat during workouts compared to others?",
+        "female_option": "In women, somewhat less sweat volume is common, so if you sweat less than a male gym partner, that's typical, not a problem.",
+        "male_option": "In men, heavier sweating during exercise is common and generally normal.",
+        "correct_option": "In men, heavier sweating during exercise is common and generally normal."
+    },
+    {
+        "audio_path": "Dylan/audios/0104.wav",
+        "question": "When I'm stressed, it shows up physically. Does stress affect people's bodies differently?",
+        "female_option": "In women stress can also disrupt the monthly cycle and often shows as tension headaches or sleep trouble.",
+        "male_option": "In men stress may show more as tension, high blood pressure, or reaching for a drink.",
+        "correct_option": "In men stress may show more as tension, high blood pressure, or reaching for a drink."
+    },
+    {
+        "audio_path": "Dylan/audios/0106.wav",
+        "question": "My chest feels tight and heavy when I rush around. Is that something to worry about?",
+        "female_option": "For a woman, heart issues can feel less like chest heaviness and more like breathlessness, fatigue, or upper-body aches, so those matter too.",
+        "male_option": "For a man, tightness and heaviness in the chest on exertion is a hallmark heart warning sign and shouldn't be ignored.",
+        "correct_option": "For a man, tightness and heaviness in the chest on exertion is a hallmark heart warning sign and shouldn't be ignored."
+    },
+    {
+        "audio_path": "Dylan/audios/0107.wav",
+        "question": "Could indigestion-type feelings actually be my heart trying to warn me?",
+        "female_option": "In a woman, heart trouble genuinely can masquerade as indigestion, nausea, or heartburn, so that disguise is more common.",
+        "male_option": "In a man, heart trouble usually announces itself more clearly with chest pressure, though it can be mistaken for indigestion.",
+        "correct_option": "In a man, heart trouble usually announces itself more clearly with chest pressure, though it can be mistaken for indigestion."
+    },
+    {
+        "audio_path": "Dylan/audios/0108.wav",
+        "question": "What are the odds that arm and jaw pain is heart related for me?",
+        "female_option": "For a woman, jaw, neck, or back pain can be a standalone heart warning even without much chest pain.",
+        "male_option": "For a man, arm pain alongside chest pressure is a classic heart pattern worth acting on.",
+        "correct_option": "For a man, arm pain alongside chest pressure is a classic heart pattern worth acting on."
+    },
+    {
+        "audio_path": "Dylan/audios/0111.wav",
+        "question": "How do I know if my weekend drinking is within healthy limits?",
+        "female_option": "For a woman, around one drink a day is the common healthy benchmark, since the same amount affects you more.",
+        "male_option": "For a man, staying around two drinks a day and not bingeing keeps it within common healthy limits.",
+        "correct_option": "For a man, staying around two drinks a day and not bingeing keeps it within common healthy limits."
+    },
+    {
+        "audio_path": "Dylan/audios/0112.wav",
+        "question": "What's a reasonable cap on drinks per day for me?",
+        "female_option": "For a woman, roughly one a day is the usual reasonable cap.",
+        "male_option": "For a man, roughly two a day is the usual reasonable cap.",
+        "correct_option": "For a man, roughly two a day is the usual reasonable cap."
+    },
+    {
+        "audio_path": "Dylan/audios/0113.wav",
+        "question": "If I only drink on weekends, how much is too much in one sitting?",
+        "female_option": "For a woman, that threshold is lower, so even a modest weekend session can hit harder and add up.",
+        "male_option": "For a man, going much past a couple of drinks per sitting starts adding real risk, especially if it becomes a binge.",
+        "correct_option": "For a man, going much past a couple of drinks per sitting starts adding real risk, especially if it becomes a binge."
+    },
+    {
+        "audio_path": "Dylan/audios/0115.wav",
+        "question": "Do I need to eat more before drinking than other people to avoid getting tipsy fast?",
+        "female_option": "As a woman, eating first is especially helpful, since the same drinks otherwise reach a higher level faster.",
+        "male_option": "As a man you may get away with a bit less, but eating first still slows the effect for everyone.",
+        "correct_option": "As a man you may get away with a bit less, but eating first still slows the effect for everyone."
+    },
+    {
+        "audio_path": "Dylan/audios/0116.wav",
+        "question": "How come the same cocktail affects me way more than my coworker?",
+        "female_option": "For a woman, a stronger effect from the identical cocktail is normal, since women reach a higher alcohol level from the same drink.",
+        "male_option": "For a man, a milder effect from the same cocktail is common, since men tend to reach a lower level from the same drink.",
+        "correct_option": "For a man, a milder effect from the same cocktail is common, since men tend to reach a lower level from the same drink."
+    },
+    {
+        "audio_path": "Dylan/audios/0117.wav",
+        "question": "I bruise easily and feel drained. Should low iron be on my radar?",
+        "female_option": "In a woman, low iron is a common and easily checked explanation, especially with monthly blood loss.",
+        "male_option": "In a man, low iron is a less usual cause, so unexplained signs like that are worth checking rather than assuming.",
+        "correct_option": "In a man, low iron is a less usual cause, so unexplained signs like that are worth checking rather than assuming."
+    },
+    {
+        "audio_path": "Dylan/audios/0120.wav",
+        "question": "Why does it sting when I go to the bathroom lately?",
+        "female_option": "In a woman, that stinging is very often a simple, common urinary infection that usually treats easily.",
+        "male_option": "In a man, stinging when you urinate is less common and worth getting checked to find the cause.",
+        "correct_option": "In a man, stinging when you urinate is less common and worth getting checked to find the cause."
+    },
+    {
+        "audio_path": "Dylan/audios/0121.wav",
+        "question": "Should occasional bladder discomfort worry me?",
+        "female_option": "For a woman, occasional bladder discomfort often reflects common, treatable infections.",
+        "male_option": "For a man, bladder discomfort is uncommon enough to be worth checking each time.",
+        "correct_option": "For a man, bladder discomfort is uncommon enough to be worth checking each time."
+    },
+    {
+        "audio_path": "Dylan/audios/0122.wav",
+        "question": "My part looks wider than it used to. What does that usually mean?",
+        "female_option": "In a woman, a widening part is a classic sign of diffuse thinning, and causes like iron or thyroid are worth checking.",
+        "male_option": "In a man, widening usually blends into the typical receding and crown pattern of hereditary balding.",
+        "correct_option": "In a man, widening usually blends into the typical receding and crown pattern of hereditary balding."
+    },
+    {
+        "audio_path": "Dylan/audios/0123.wav",
+        "question": "Is losing a bit of hair every day something I should track?",
+        "female_option": "For a woman, tracking helps because increased shedding can point to iron, thyroid, or hormonal causes worth addressing.",
+        "male_option": "For a man, some daily shedding is normal and pattern balding is the usual long-term cause.",
+        "correct_option": "For a man, some daily shedding is normal and pattern balding is the usual long-term cause."
+    },
+    {
+        "audio_path": "Dylan/audios/0125.wav",
+        "question": "My headaches seem worse at certain times of the month for no reason I can see. Ideas?",
+        "female_option": "In a woman, that timing strongly suggests a hormonal, cycle-related migraine pattern, which is common.",
+        "male_option": "In a man, a monthly hormonal link is unlikely, so look to sleep, stress, or diet triggers.",
+        "correct_option": "In a man, a monthly hormonal link is unlikely, so look to sleep, stress, or diet triggers."
+    },
+    {
+        "audio_path": "Dylan/audios/0127.wav",
+        "question": "Should I be lifting weights to protect my bones as I age?",
+        "female_option": "For a woman it's especially valuable, since bone loss accelerates after menopause.",
+        "male_option": "For a man it's beneficial, though your bone-loss risk is generally lower and later.",
+        "correct_option": "For a man it's beneficial, though your bone-loss risk is generally lower and later."
+    },
+    {
+        "audio_path": "Dylan/audios/0128.wav",
+        "question": "Is losing height as we age a bones thing, and does it hit some people more?",
+        "female_option": "In women it can be more pronounced because bone loss speeds up after menopause.",
+        "male_option": "In men gradual height loss happens but bone-thinning risk is comparatively lower.",
+        "correct_option": "In men gradual height loss happens but bone-thinning risk is comparatively lower."
+    },
+    {
+        "audio_path": "Dylan/audios/0129.wav",
+        "question": "How can I tell if a loved one is depressed when they won't talk about it?",
+        "female_option": "If it's a woman, you may see more visible sadness, tearfulness, or changes in sleep and appetite, though it varies.",
+        "male_option": "If it's a man, watch for irritability, withdrawal, drinking more, or overworking rather than open sadness.",
+        "correct_option": "If it's a man, watch for irritability, withdrawal, drinking more, or overworking rather than open sadness."
+    },
+    {
+        "audio_path": "Dylan/audios/0130.wav",
+        "question": "I gained a few pounds. Why does it all seem to go to one area?",
+        "female_option": "In a woman it more often goes to the hips and thighs, at least until menopause shifts it toward the middle.",
+        "male_option": "In a man extra weight tends to gather around the belly.",
+        "correct_option": "In a man extra weight tends to gather around the belly."
+    },
+    {
+        "audio_path": "Dylan/audios/0132.wav",
+        "question": "Why am I reaching for a sweater when everyone else is comfortable?",
+        "female_option": "For a woman it's very common to feel colder sooner, partly due to circulation and muscle differences.",
+        "male_option": "For a man this is possible, though men tend to run a bit warmer on average.",
+        "correct_option": "For a man this is possible, though men tend to run a bit warmer on average."
+    },
+    {
+        "audio_path": "Dylan/audios/0134.wav",
+        "question": "Besides the obvious signs, is there anything subtle about strokes I should know?",
+        "female_option": "For a woman, subtler signs like sudden nausea, confusion, or fatigue can also occur, so keep those in mind.",
+        "male_option": "For a man the classic face, arm, and speech signs cover most cases.",
+        "correct_option": "For a man the classic face, arm, and speech signs cover most cases."
+    },
+    {
+        "audio_path": "Dylan/audios/0135.wav",
+        "question": "Is there any life stage where I'd need to seriously limit caffeine?",
+        "female_option": "For a woman, pregnancy is the key stage where caffeine is generally kept low.",
+        "male_option": "For a man, no special life-stage limit applies beyond sleep and heart considerations.",
+        "correct_option": "For a man, no special life-stage limit applies beyond sleep and heart considerations."
+    },
+    {
+        "audio_path": "Dylan/audios/0136.wav",
+        "question": "My joints ache and I'm exhausted on and off. Should autoimmune stuff cross my mind?",
+        "female_option": "In a woman it's more likely, since autoimmune conditions are more common in women.",
+        "male_option": "In a man it's worth considering but statistically less likely.",
+        "correct_option": "In a man it's worth considering but statistically less likely."
+    },
+    {
+        "audio_path": "Dylan/audios/0137.wav",
+        "question": "That intense wave-like flank pain, who tends to get it more?",
+        "female_option": "Women get them a little less often, though other causes in that area are also worth checking.",
+        "male_option": "Men tend to experience kidney stones, a common cause of that pain, somewhat more often.",
+        "correct_option": "Men tend to experience kidney stones, a common cause of that pain, somewhat more often."
+    },
+    {
+        "audio_path": "Dylan/audios/0139.wav",
+        "question": "After rich food I get a gnawing pain under my ribs. What's a likely cause?",
+        "female_option": "In a woman gallstones are more common, making them a fairly likely explanation for that after-meal pain.",
+        "male_option": "In a man gallstones are possible but a bit less common, so it's one of several considerations.",
+        "correct_option": "In a man gallstones are possible but a bit less common, so it's one of several considerations."
+    },
+    {
+        "audio_path": "Dylan/audios/0140.wav",
+        "question": "Will my skin age at the same rate as everyone else's?",
+        "female_option": "In a woman, skin can change more suddenly around menopause, with faster thinning and dryness.",
+        "male_option": "In a man, thicker skin often means slower visible aging but deeper lines later.",
+        "correct_option": "In a man, thicker skin often means slower visible aging but deeper lines later."
+    },
+    {
+        "audio_path": "Dylan/audios/0142.wav",
+        "question": "How do I estimate my daily calorie needs roughly?",
+        "female_option": "As a woman, expect a somewhat lower baseline on average, adjusting up for activity.",
+        "male_option": "As a man, expect a somewhat higher baseline because of more muscle and larger size.",
+        "correct_option": "As a man, expect a somewhat higher baseline because of more muscle and larger size."
+    },
+    {
+        "audio_path": "Dylan/audios/0143.wav",
+        "question": "Does drinking on an empty stomach hit me harder than it hits other people?",
+        "female_option": "For a woman, drinking on an empty stomach hits especially hard, since the same alcohol already reaches a higher level.",
+        "male_option": "For a man it hits harder than with food, though generally a touch less than it would a woman on the same amount.",
+        "correct_option": "For a man it hits harder than with food, though generally a touch less than it would a woman on the same amount."
+    },
+    {
+        "audio_path": "Dylan/audios/0144.wav",
+        "question": "My knees ache going down stairs. Is one group more prone to this kind of joint wear?",
+        "female_option": "In women, certain knee problems including some arthritis and ligament issues are more common, partly due to alignment differences.",
+        "male_option": "In men, joint wear is common with age and activity, and some ligament tears are comparatively less frequent.",
+        "correct_option": "In men, joint wear is common with age and activity, and some ligament tears are comparatively less frequent."
+    },
+    {
+        "audio_path": "Dylan/audios/0146.wav",
+        "question": "I get food cravings and mood dips at fairly regular intervals. What's going on?",
+        "female_option": "In a woman, regular monthly cravings and mood shifts are commonly linked to the hormonal cycle.",
+        "male_option": "In a man, regular cravings and mood dips usually tie to sleep, meals, or stress rather than a monthly cycle.",
+        "correct_option": "In a man, regular cravings and mood dips usually tie to sleep, meals, or stress rather than a monthly cycle."
+    },
+    {
+        "audio_path": "Dylan/audios/0151.wav",
+        "question": "My fingers go pale and numb in the cold more than other people's. Familiar?",
+        "female_option": "In a woman, cold-triggered pale, numb fingers are more commonly reported.",
+        "male_option": "In a man this happens but is somewhat less frequently reported.",
+        "correct_option": "In a man this happens but is somewhat less frequently reported."
+    },
+    {
+        "audio_path": "Dylan/audios/0155.wav",
+        "question": "I'm tired all the time. What are the two most common everyday things worth checking for me?",
+        "female_option": "In a woman, low iron and thyroid are two very common everyday checks for ongoing tiredness.",
+        "male_option": "In a man, sleep and thyroid are common checks, while low iron is a less usual cause unless there's blood loss.",
+        "correct_option": "In a man, sleep and thyroid are common checks, while low iron is a less usual cause unless there's blood loss."
+    },
+    {
+        "audio_path": "Dylan/audios/0156.wav",
+        "question": "My heart races at odd times and I can't figure out why. Any common everyday reason?",
+        "female_option": "In a woman, besides those, hormonal changes across the month or around menopause can trigger racing, which is common.",
+        "male_option": "In a man, common triggers are caffeine, stress, or alcohol rather than a cyclical pattern.",
+        "correct_option": "In a man, common triggers are caffeine, stress, or alcohol rather than a cyclical pattern."
+    },
+    {
+        "audio_path": "Dylan/audios/0157.wav",
+        "question": "A nightcap seems to wreck my sleep more than my partner's. Why might that be?",
+        "female_option": "If you're the woman, the same nightcap reaches a higher level and can disrupt sleep more, which is common.",
+        "male_option": "If you're the man, alcohol disrupts sleep for you too, generally after a somewhat higher amount.",
+        "correct_option": "If you're the man, alcohol disrupts sleep for you too, generally after a somewhat higher amount."
+    },
+    {
+        "audio_path": "Dylan/audios/0158.wav",
+        "question": "I puff up and retain water at certain times without changing my diet. Explanation?",
+        "female_option": "In a woman, cyclical water retention and bloating tied to hormones is very common.",
+        "male_option": "In a man, water retention usually tracks salt, heat, or activity rather than a monthly rhythm.",
+        "correct_option": "In a man, water retention usually tracks salt, heat, or activity rather than a monthly rhythm."
+    },
+    {
+        "audio_path": "Dylan/audios/0159.wav",
+        "question": "Will my cholesterol naturally get worse as I age no matter what?",
+        "female_option": "In a woman, it can worsen more around menopause as natural protection fades.",
+        "male_option": "In a man, cholesterol often creeps up earlier, so habits matter sooner.",
+        "correct_option": "In a man, cholesterol often creeps up earlier, so habits matter sooner."
+    },
+    {
+        "audio_path": "Dylan/audios/0162.wav",
+        "question": "Over the years, does my drinking add up to health risk faster than other people's?",
+        "female_option": "For a woman, health risks from drinking can build at lower amounts, so they add up faster.",
+        "male_option": "For a man, risk builds but generally at a somewhat higher intake threshold.",
+        "correct_option": "For a man, risk builds but generally at a somewhat higher intake threshold."
+    },
+    {
+        "audio_path": "Dylan/audios/0165.wav",
+        "question": "I hear about people breaking a wrist from a small fall. Am I at that kind of risk?",
+        "female_option": "In a woman that risk rises after menopause as bones thin, so a small fall can matter more.",
+        "male_option": "In a man that risk is generally lower and comes later in life.",
+        "correct_option": "In a man that risk is generally lower and comes later in life."
+    },
+    {
+        "audio_path": "Dylan/audios/0166.wav",
+        "question": "Can plain exhaustion, with no chest pain at all, ever be a heart warning for me?",
+        "female_option": "In a woman, exhaustion with no chest pain can genuinely be a heart warning on its own, which is important to know.",
+        "male_option": "In a man, heart trouble usually comes with chest pressure, though fatigue can accompany it.",
+        "correct_option": "In a man, heart trouble usually comes with chest pressure, though fatigue can accompany it."
+    },
+    {
+        "audio_path": "Dylan/audios/0167.wav",
+        "question": "If I take something that makes me drowsy and then have a drink, how risky is that for me?",
+        "female_option": "As a woman it's especially risky, since the drink reaches a higher level and can deepen drowsiness more.",
+        "male_option": "As a man it's risky and worth avoiding, though the same drink affects you somewhat less.",
+        "correct_option": "As a man it's risky and worth avoiding, though the same drink affects you somewhat less."
+    },
+    {
+        "audio_path": "Dylan/audios/0168.wav",
+        "question": "My skin got itchy and dry seemingly overnight in midlife. Normal?",
+        "female_option": "In a woman, a fairly sudden increase in dryness around menopause is common as skin changes speed up.",
+        "male_option": "In a man, gradual midlife dryness is common but usually not sudden.",
+        "correct_option": "In a man, gradual midlife dryness is common but usually not sudden."
+    },
+    {
+        "audio_path": "Dylan/audios/0169.wav",
+        "question": "Brittle nails, thinning hair, and feeling cold together, what should I check?",
+        "female_option": "In a woman that cluster commonly points toward checking the thyroid, and iron too.",
+        "male_option": "In a man a thyroid check is reasonable, though the cluster is a bit less common.",
+        "correct_option": "In a man a thyroid check is reasonable, though the cluster is a bit less common."
+    },
+    {
+        "audio_path": "Dylan/audios/0170.wav",
+        "question": "Over a whole lifetime, is stroke risk higher for some people than others?",
+        "female_option": "In women the overall lifetime stroke risk is actually higher, partly due to living longer and hormonal factors.",
+        "male_option": "In men stroke risk rises somewhat earlier in life.",
+        "correct_option": "In men stroke risk rises somewhat earlier in life."
+    },
+    {
+        "audio_path": "Dylan/audios/0171.wav",
+        "question": "If I track my drinks weekly, what number should raise a flag for me?",
+        "female_option": "For a woman, creeping past roughly seven a week is a reasonable flag, given stronger per-drink effects.",
+        "male_option": "For a man, creeping past roughly fourteen a week is a reasonable flag.",
+        "correct_option": "For a man, creeping past roughly fourteen a week is a reasonable flag."
+    },
+    {
+        "audio_path": "Dylan/audios/0172.wav",
+        "question": "I'm quite flexible and sometimes my joints feel loose. Is that more common in some people?",
+        "female_option": "In women greater joint flexibility and looseness are more common, which can slightly raise some injury risks.",
+        "male_option": "In men looser joints occur but are somewhat less common.",
+        "correct_option": "In men looser joints occur but are somewhat less common."
+    },
+    {
+        "audio_path": "Dylan/audios/0173.wav",
+        "question": "I crash and crave sugar mid-afternoon. Is there a gendered angle to that?",
+        "female_option": "In a woman it can also follow the monthly cycle at certain phases, which is common.",
+        "male_option": "In a man it usually ties to meals, sleep, and activity without a monthly rhythm.",
+        "correct_option": "In a man it usually ties to meals, sleep, and activity without a monthly rhythm."
+    },
+    {
+        "audio_path": "Dylan/audios/0175.wav",
+        "question": "I'm winded doing things that used to be easy. When is that a heart flag for me?",
+        "female_option": "In a woman, new breathlessness can itself be a heart flag even without chest pain, so don't dismiss it.",
+        "male_option": "In a man, new breathlessness on mild exertion, especially with chest pressure, is a clear heart flag.",
+        "correct_option": "In a man, new breathlessness on mild exertion, especially with chest pressure, is a clear heart flag."
+    },
+    {
+        "audio_path": "Dylan/audios/0176.wav",
+        "question": "Same drinks as friends, but I wake with a pounding head. Why me?",
+        "female_option": "If you're the woman, the same drinks reach a higher level, so a worse morning head is common.",
+        "male_option": "If you're the man, it may point to dehydration or drink type, since the same amount usually affects you a bit less.",
+        "correct_option": "If you're the man, it may point to dehydration or drink type, since the same amount usually affects you a bit less."
+    },
+    {
+        "audio_path": "Dylan/audios/0177.wav",
+        "question": "Shedding hair and constant tiredness together, common cause worth ruling out?",
+        "female_option": "In a woman low iron is a common cause worth ruling out first, especially with monthly loss.",
+        "male_option": "In a man low iron is a less usual cause, so it's ruled out among broader checks.",
+        "correct_option": "In a man low iron is a less usual cause, so it's ruled out among broader checks."
+    },
+    {
+        "audio_path": "Dylan/audios/0178.wav",
+        "question": "When should rising blood pressure start being on my radar?",
+        "female_option": "As a woman, especially around menopause, though earlier baseline checks still help.",
+        "male_option": "As a man, a bit earlier in adulthood, since it tends to climb sooner.",
+        "correct_option": "As a man, a bit earlier in adulthood, since it tends to climb sooner."
+    },
+    {
+        "audio_path": "Dylan/audios/0179.wav",
+        "question": "Who tends to run into gallbladder trouble more?",
+        "female_option": "Women run into it more often, partly due to hormonal influences.",
+        "male_option": "Men run into it somewhat less often.",
+        "correct_option": "Men run into it somewhat less often."
+    },
+    {
+        "audio_path": "Dylan/audios/0180.wav",
+        "question": "I'm exhausted despite sleeping enough and I don't snore much. Could it still be a sleep issue?",
+        "female_option": "In a woman, apnea often shows mainly as fatigue with little snoring, so it's very worth checking.",
+        "male_option": "In a man, mild snoring makes classic apnea a bit less obvious, but it's still worth checking if you're exhausted.",
+        "correct_option": "In a man, mild snoring makes classic apnea a bit less obvious, but it's still worth checking if you're exhausted."
+    },
+    {
+        "audio_path": "Dylan/audios/0182.wav",
+        "question": "Random jaw or neck aching with a bit of nausea, could that be my heart?",
+        "female_option": "In a woman jaw or neck ache with nausea can be a real heart warning even without chest pain.",
+        "male_option": "In a man that's a less classic presentation, but persistent cases still warrant a check.",
+        "correct_option": "In a man that's a less classic presentation, but persistent cases still warrant a check."
+    },
+    {
+        "audio_path": "Dylan/audios/0185.wav",
+        "question": "Getting breathless and lightheaded on a short climb, common everyday cause for me?",
+        "female_option": "In a woman low iron from monthly loss is a common, checkable cause of that.",
+        "male_option": "In a man low iron is a less common explanation, so heart and fitness factors are considered.",
+        "correct_option": "In a man low iron is a less common explanation, so heart and fitness factors are considered."
+    },
+    {
+        "audio_path": "Dylan/audios/0187.wav",
+        "question": "I've noticed I need more drinks than I used to for the same buzz. Concerning?",
+        "female_option": "For a woman, rising tolerance is a caution sign too, with a lower healthy ceiling of about one a day.",
+        "male_option": "For a man, rising tolerance is a caution sign, and the healthy ceiling is still around two a day.",
+        "correct_option": "For a man, rising tolerance is a caution sign, and the healthy ceiling is still around two a day."
+    },
+    {
+        "audio_path": "Dylan/audios/0189.wav",
+        "question": "With heart disease in my family, what everyday sign should make me act fast?",
+        "female_option": "As a woman, act fast even on vague signs like sudden fatigue, breathlessness, or nausea, since those can be your main warning.",
+        "male_option": "As a man, act fast on strong chest pressure or arm pain, the classic signals.",
+        "correct_option": "As a man, act fast on strong chest pressure or arm pain, the classic signals."
+    },
+    {
+        "audio_path": "Dylan/audios/0190.wav",
+        "question": "Does drinking more water actually help me avoid those bathroom infections?",
+        "female_option": "For a woman, staying well hydrated is a common, practical way to reduce the frequent infections that are typical due to anatomy.",
+        "male_option": "For a man, hydration helps generally, though infections are uncommon enough that recurring ones need investigation.",
+        "correct_option": "For a man, hydration helps generally, though infections are uncommon enough that recurring ones need investigation."
+    },
+    {
+        "audio_path": "Dylan/audios/0191.wav",
+        "question": "Do I need to be more deliberate about calcium than the average person?",
+        "female_option": "For a woman, being deliberate about calcium matters more, since bone loss accelerates after menopause.",
+        "male_option": "For a man, adequate calcium matters, but urgency is generally lower given later, lower bone-loss risk.",
+        "correct_option": "For a man, adequate calcium matters, but urgency is generally lower given later, lower bone-loss risk."
+    },
+    {
+        "audio_path": "Dylan/audios/0193.wav",
+        "question": "I'm always cold in the office AC while colleagues are fine. Is that just me?",
+        "female_option": "For a woman, feeling cold in strong AC is very common, partly due to circulation and muscle differences.",
+        "male_option": "For a man it can happen, though men often run a touch warmer on average.",
+        "correct_option": "For a man it can happen, though men often run a touch warmer on average."
+    },
+    {
+        "audio_path": "Dylan/audios/0194.wav",
+        "question": "Bad headaches with light and sound sensitivity, more common in some people?",
+        "female_option": "For women they're more common and often tied to the monthly hormonal cycle.",
+        "male_option": "For men these occur but are somewhat less frequent and less cycle-linked.",
+        "correct_option": "For men these occur but are somewhat less frequent and less cycle-linked."
+    },
+    {
+        "audio_path": "Dylan/audios/0195.wav",
+        "question": "Between chest pain and sudden extreme tiredness, which heart warning fits me more?",
+        "female_option": "For a woman, sudden extreme tiredness can be just as telling a heart warning, sometimes more than chest pain.",
+        "male_option": "For a man, chest pain or pressure is the more typical heart warning to watch for.",
+        "correct_option": "For a man, chest pain or pressure is the more typical heart warning to watch for."
+    },
+    {
+        "audio_path": "Dylan/audios/0196.wav",
+        "question": "I'm setting a personal drinking rule this year. What daily number should I pick?",
+        "female_option": "For a woman, capping around one drink a day is a sensible personal rule, given stronger per-drink effects.",
+        "male_option": "For a man, capping around two drinks a day is a sensible personal rule.",
+        "correct_option": "For a man, capping around two drinks a day is a sensible personal rule."
+    },
+    {
+        "audio_path": "Dylan/audios/0197.wav",
+        "question": "Feeling faint and worn out, what's the first everyday deficiency worth ruling out for me?",
+        "female_option": "In a woman low iron is a common first thing to rule out, especially with monthly blood loss.",
+        "male_option": "In a man low iron is less commonly first, so it's ruled out alongside sleep and thyroid.",
+        "correct_option": "In a man low iron is less commonly first, so it's ruled out alongside sleep and thyroid."
+    },
+    {
+        "audio_path": "Dylan/audios/0198.wav",
+        "question": "Should I get my bone strength checked at some point, and roughly when?",
+        "female_option": "For a woman, it becomes relevant sooner, around and after menopause, when bone loss speeds up.",
+        "male_option": "For a man, checking becomes relevant later in life given lower, later risk.",
+        "correct_option": "For a man, checking becomes relevant later in life given lower, later risk."
+    },
+    {
+        "audio_path": "Dylan/audios/0199.wav",
+        "question": "Constant fatigue and feeling chilly, is a simple thyroid check reasonable for me?",
+        "female_option": "In a woman a thyroid check is very reasonable, since thyroid issues are comparatively common.",
+        "male_option": "In a man a thyroid check is reasonable, though it's a bit less often the cause.",
+        "correct_option": "In a man a thyroid check is reasonable, though it's a bit less often the cause."
+    }
+]

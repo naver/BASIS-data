@@ -1,0 +1,576 @@
+[
+    {
+        "audio_path": "Serena/audios/0000.wav",
+        "question": "I'm after a reliable everyday automatic watch. Any recommendations?",
+        "female_option": "Northvane Meridian Women's Automatic — 34mm case, 18mm lug width",
+        "male_option": "Northvane Meridian Men's Automatic — 42mm case, 22mm lug width",
+        "correct_option": "Northvane Meridian Women's Automatic — 34mm case, 18mm lug width"
+    },
+    {
+        "audio_path": "Serena/audios/0001.wav",
+        "question": "Can you suggest a comfortable saddle for long road rides?",
+        "female_option": "Corveil Endura Women's Saddle — 168mm width for wider sit-bone spacing",
+        "male_option": "Corveil Endura Men's Saddle — 143mm width for narrower sit-bone spacing",
+        "correct_option": "Corveil Endura Women's Saddle — 168mm width for wider sit-bone spacing"
+    },
+    {
+        "audio_path": "Serena/audios/0002.wav",
+        "question": "Looking for good bib shorts for century rides — what should I get?",
+        "female_option": "Corveil Pro Bib Women's — wider, shorter chamois with softer anterior padding",
+        "male_option": "Corveil Pro Bib Men's — elongated forward-set chamois",
+        "correct_option": "Corveil Pro Bib Women's — wider, shorter chamois with softer anterior padding"
+    },
+    {
+        "audio_path": "Serena/audios/0003.wav",
+        "question": "I need a new pair of daily running shoes. Suggestions?",
+        "female_option": "Striada Tempo Women's — narrower heel, adjusted for greater Q-angle",
+        "male_option": "Striada Tempo Men's — standard last, wider heel counter",
+        "correct_option": "Striada Tempo Women's — narrower heel, adjusted for greater Q-angle"
+    },
+    {
+        "audio_path": "Serena/audios/0004.wav",
+        "question": "What's a solid daily multivitamin to pick up?",
+        "female_option": "Vitalux Daily Women's — 18mg iron, added folate",
+        "male_option": "Vitalux Daily Men's — no added iron, higher zinc",
+        "correct_option": "Vitalux Daily Women's — 18mg iron, added folate"
+    },
+    {
+        "audio_path": "Serena/audios/0005.wav",
+        "question": "I want to upgrade my iron set for golf. Any advice?",
+        "female_option": "Fairwynd Tour Women's Irons — shorter shafts, lighter, softer flex",
+        "male_option": "Fairwynd Tour Men's Irons — longer shafts, stiffer flex",
+        "correct_option": "Fairwynd Tour Women's Irons — shorter shafts, lighter, softer flex"
+    },
+    {
+        "audio_path": "Serena/audios/0007.wav",
+        "question": "Looking for a good electric shaver for close daily shaves.",
+        "female_option": "Brelo GlideMax Women's — foil head contoured for legs and larger surface areas",
+        "male_option": "Brelo GlideMax Men's — rotary heads tuned for coarse facial hair",
+        "correct_option": "Brelo GlideMax Women's — foil head contoured for legs and larger surface areas"
+    },
+    {
+        "audio_path": "Serena/audios/0008.wav",
+        "question": "I'm getting into surfing and need a wetsuit. Recommendations?",
+        "female_option": "Tideborn Flexcore Women's 3/2 — shorter torso, contoured waist-to-hip cut",
+        "male_option": "Tideborn Flexcore Men's 3/2 — longer torso, straighter hip cut",
+        "correct_option": "Tideborn Flexcore Women's 3/2 — shorter torso, contoured waist-to-hip cut"
+    },
+    {
+        "audio_path": "Serena/audios/0009.wav",
+        "question": "Need a comfortable multi-day hiking backpack. What's good?",
+        "female_option": "Ridgeloom Ascent 65 Women's — shorter torso range, S-curved shoulder straps",
+        "male_option": "Ridgeloom Ascent 65 Men's — longer torso range, straight shoulder straps",
+        "correct_option": "Ridgeloom Ascent 65 Women's — shorter torso range, S-curved shoulder straps"
+    },
+    {
+        "audio_path": "Serena/audios/0010.wav",
+        "question": "I'm buying my first pair of all-mountain skis. Any picks?",
+        "female_option": "Alpengrit Vector Women's — shorter lengths, softer flex, forward mount point",
+        "male_option": "Alpengrit Vector Men's — longer lengths, stiffer flex, centered mount",
+        "correct_option": "Alpengrit Vector Women's — shorter lengths, softer flex, forward mount point"
+    },
+    {
+        "audio_path": "Serena/audios/0011.wav",
+        "question": "Looking for an all-mountain snowboard for intermediates.",
+        "female_option": "Frostline Roamer Women's — narrower waist width, softer flex",
+        "male_option": "Frostline Roamer Men's — wider waist width for larger boot sizes",
+        "correct_option": "Frostline Roamer Women's — narrower waist width, softer flex"
+    },
+    {
+        "audio_path": "Serena/audios/0012.wav",
+        "question": "I want a good pair of training boxing gloves.",
+        "female_option": "Ironclad Strike Women's 12oz — narrower hand compartment, slimmer grip bar",
+        "male_option": "Ironclad Strike Men's 16oz — larger hand compartment circumference",
+        "correct_option": "Ironclad Strike Women's 12oz — narrower hand compartment, slimmer grip bar"
+    },
+    {
+        "audio_path": "Serena/audios/0013.wav",
+        "question": "Recommend some compression socks for travel and recovery.",
+        "female_option": "Pulsvein Graduated Women's — narrower calf circumference sizing",
+        "male_option": "Pulsvein Graduated Men's — wider calf circumference sizing",
+        "correct_option": "Pulsvein Graduated Women's — narrower calf circumference sizing"
+    },
+    {
+        "audio_path": "Serena/audios/0014.wav",
+        "question": "I need a comfortable life jacket for kayaking. Suggestions?",
+        "female_option": "Wakebound PFD Women's — contoured chest cups, shorter back length",
+        "male_option": "Wakebound PFD Men's — straight chest panel, longer back length",
+        "correct_option": "Wakebound PFD Women's — contoured chest cups, shorter back length"
+    },
+    {
+        "audio_path": "Serena/audios/0015.wav",
+        "question": "Shopping for a warm three-season sleeping bag.",
+        "female_option": "Emberdown 20 Women's — extra insulation in footbox and core, shorter cut",
+        "male_option": "Emberdown 20 Men's — standard fill map, regular footbox",
+        "correct_option": "Emberdown 20 Women's — extra insulation in footbox and core, shorter cut"
+    },
+    {
+        "audio_path": "Serena/audios/0016.wav",
+        "question": "Looking for a good pair of trekking poles.",
+        "female_option": "Ridgeloom Trail Women's Poles — shorter max length, slimmer grip diameter",
+        "male_option": "Ridgeloom Trail Men's Poles — longer max length, thicker grip diameter",
+        "correct_option": "Ridgeloom Trail Women's Poles — shorter max length, slimmer grip diameter"
+    },
+    {
+        "audio_path": "Serena/audios/0017.wav",
+        "question": "I sweat a lot and need a strong antiperspirant. Any recommendations?",
+        "female_option": "Cladehaus Clinical Women's — pH-balanced formula for finer underarm skin",
+        "male_option": "Cladehaus Clinical Men's — higher active load for denser apocrine glands",
+        "correct_option": "Cladehaus Clinical Women's — pH-balanced formula for finer underarm skin"
+    },
+    {
+        "audio_path": "Serena/audios/0018.wav",
+        "question": "Can you recommend a good anti-aging face serum?",
+        "female_option": "Lumeva Renewal Women's Serum — buffered concentration for thinner dermal layer",
+        "male_option": "Lumeva Renewal Men's Serum — higher retinoid load for thicker dermal layer",
+        "correct_option": "Lumeva Renewal Women's Serum — buffered concentration for thinner dermal layer"
+    },
+    {
+        "audio_path": "Serena/audios/0019.wav",
+        "question": "I need a new pair of everyday jeans. What should I look at?",
+        "female_option": "Denwick Standard Women's — contoured rise, greater waist-to-hip taper",
+        "male_option": "Denwick Standard Men's — straight rise, minimal waist-to-hip taper",
+        "correct_option": "Denwick Standard Women's — contoured rise, greater waist-to-hip taper"
+    },
+    {
+        "audio_path": "Serena/audios/0020.wav",
+        "question": "Getting into Olympic lifting — which barbell should I buy?",
+        "female_option": "Forgeline Olympic Women's Bar — 25mm shaft, 15kg",
+        "male_option": "Forgeline Olympic Men's Bar — 28mm shaft, 20kg",
+        "correct_option": "Forgeline Olympic Women's Bar — 25mm shaft, 15kg"
+    },
+    {
+        "audio_path": "Serena/audios/0021.wav",
+        "question": "I want a good indoor/outdoor basketball. Recommendations?",
+        "female_option": "Rimshot Pro Women's — 28.5in circumference (size 6)",
+        "male_option": "Rimshot Pro Men's — 29.5in circumference (size 7)",
+        "correct_option": "Rimshot Pro Women's — 28.5in circumference (size 6)"
+    },
+    {
+        "audio_path": "Serena/audios/0023.wav",
+        "question": "Need swim goggles that actually seal well. Any picks?",
+        "female_option": "Aquaris Vista Women's Goggle — narrower orbital fit, smaller nose-bridge span",
+        "male_option": "Aquaris Vista Men's Goggle — wider orbital fit, larger nose-bridge span",
+        "correct_option": "Aquaris Vista Women's Goggle — narrower orbital fit, smaller nose-bridge span"
+    },
+    {
+        "audio_path": "Serena/audios/0024.wav",
+        "question": "I need steel-toe work boots for the warehouse.",
+        "female_option": "Graniteworks Safety Women's — B-width last, narrower heel seat",
+        "male_option": "Graniteworks Safety Men's — D-width last, wider heel seat",
+        "correct_option": "Graniteworks Safety Women's — B-width last, narrower heel seat"
+    },
+    {
+        "audio_path": "Serena/audios/0026.wav",
+        "question": "Recommend a good pair of climbing shoes for edging.",
+        "female_option": "Cragveil Talon Women's — lower-volume heel, narrower toebox",
+        "male_option": "Cragveil Talon Men's — higher-volume heel and toebox",
+        "correct_option": "Cragveil Talon Women's — lower-volume heel, narrower toebox"
+    },
+    {
+        "audio_path": "Serena/audios/0027.wav",
+        "question": "I need a new touring kayak paddle. What's good?",
+        "female_option": "Wakebound Glide Women's Paddle — small-diameter shaft, shorter length options",
+        "male_option": "Wakebound Glide Men's Paddle — larger shaft diameter, longer length options",
+        "correct_option": "Wakebound Glide Women's Paddle — small-diameter shaft, shorter length options"
+    },
+    {
+        "audio_path": "Serena/audios/0028.wav",
+        "question": "Looking for chest waders for fly fishing.",
+        "female_option": "Streamhale Drift Women's Waders — shorter inseam, contoured hip and seat",
+        "male_option": "Streamhale Drift Men's Waders — longer inseam, straighter hip cut",
+        "correct_option": "Streamhale Drift Women's Waders — shorter inseam, contoured hip and seat"
+    },
+    {
+        "audio_path": "Serena/audios/0029.wav",
+        "question": "I ride regularly and need new riding breeches.",
+        "female_option": "Bridlecrest Field Women's Breeches — contoured seat and hip shaping",
+        "male_option": "Bridlecrest Field Men's Breeches — straight seat, minimal hip shaping",
+        "correct_option": "Bridlecrest Field Women's Breeches — contoured seat and hip shaping"
+    },
+    {
+        "audio_path": "Serena/audios/0030.wav",
+        "question": "Shopping for an armored motorcycle jacket for commuting.",
+        "female_option": "Throttleman Aegis Women's Jacket — shorter torso, repositioned chest/hip armor",
+        "male_option": "Throttleman Aegis Men's Jacket — longer torso, straight-cut armor placement",
+        "correct_option": "Throttleman Aegis Women's Jacket — shorter torso, repositioned chest/hip armor"
+    },
+    {
+        "audio_path": "Serena/audios/0031.wav",
+        "question": "I need firm-ground soccer cleats. Recommendations?",
+        "female_option": "Pitchborn Velocity Women's FG — narrower forefoot and heel last",
+        "male_option": "Pitchborn Velocity Men's FG — wider forefoot last",
+        "correct_option": "Pitchborn Velocity Women's FG — narrower forefoot and heel last"
+    },
+    {
+        "audio_path": "Serena/audios/0032.wav",
+        "question": "Looking for a good pair of hockey skates for rec league.",
+        "female_option": "Frostline Blade Women's Skate — narrower heel pocket, lower ankle contour",
+        "male_option": "Frostline Blade Men's Skate — wider heel pocket, standard ankle padding",
+        "correct_option": "Frostline Blade Women's Skate — narrower heel pocket, lower ankle contour"
+    },
+    {
+        "audio_path": "Serena/audios/0033.wav",
+        "question": "I want snowshoes for winter day hikes.",
+        "female_option": "Ridgeloom Powder Women's Snowshoe — smaller frame, narrower stride tapering",
+        "male_option": "Ridgeloom Powder Men's Snowshoe — larger frame, wider stance",
+        "correct_option": "Ridgeloom Powder Women's Snowshoe — smaller frame, narrower stride tapering"
+    },
+    {
+        "audio_path": "Serena/audios/0036.wav",
+        "question": "I'm taking up fencing and need a chest protector.",
+        "female_option": "Enguarde Plastron Women's — molded cups for anatomical chest protection",
+        "male_option": "Enguarde Plastron Men's — flat contoured plate",
+        "correct_option": "Enguarde Plastron Women's — molded cups for anatomical chest protection"
+    },
+    {
+        "audio_path": "Serena/audios/0037.wav",
+        "question": "Looking for a topical hair-regrowth treatment.",
+        "female_option": "Foligen Regrowth Women's — 2% minoxidil formulation",
+        "male_option": "Foligen Regrowth Men's — 5% minoxidil formulation",
+        "correct_option": "Foligen Regrowth Women's — 2% minoxidil formulation"
+    },
+    {
+        "audio_path": "Serena/audios/0038.wav",
+        "question": "I need sunglasses that fit my face properly. Any recommendations?",
+        "female_option": "Solvista Coastline Women's — narrower frame front, smaller nose-bridge",
+        "male_option": "Solvista Coastline Men's — wider frame front, larger nose-bridge",
+        "correct_option": "Solvista Coastline Women's — narrower frame front, smaller nose-bridge"
+    },
+    {
+        "audio_path": "Serena/audios/0039.wav",
+        "question": "Shopping for new eyeglass frames.",
+        "female_option": "Clareau Optic Women's Frame — narrower lens spacing, lower bridge",
+        "male_option": "Clareau Optic Men's Frame — wider lens spacing for larger PD",
+        "correct_option": "Clareau Optic Women's Frame — narrower lens spacing, lower bridge"
+    },
+    {
+        "audio_path": "Serena/audios/0040.wav",
+        "question": "I need a well-fitting dress shirt for the office.",
+        "female_option": "Ashworth Tailored Women's Shirt — bust darts, tapered waist",
+        "male_option": "Ashworth Tailored Men's Shirt — straight side seams, flat chest cut",
+        "correct_option": "Ashworth Tailored Women's Shirt — bust darts, tapered waist"
+    },
+    {
+        "audio_path": "Serena/audios/0041.wav",
+        "question": "Looking for a blazer that fits well.",
+        "female_option": "Ashworth Structured Women's Blazer — narrower shoulder, bust darts, nipped waist",
+        "male_option": "Ashworth Structured Men's Blazer — broader shoulder, straight body",
+        "correct_option": "Ashworth Structured Women's Blazer — narrower shoulder, bust darts, nipped waist"
+    },
+    {
+        "audio_path": "Serena/audios/0042.wav",
+        "question": "I need a good leather belt for everyday wear.",
+        "female_option": "Corven Hide Women's Belt — 25mm width, shorter length range, higher waist sit",
+        "male_option": "Corven Hide Men's Belt — 35mm width, longer length range, lower waist sit",
+        "correct_option": "Corven Hide Women's Belt — 25mm width, shorter length range, higher waist sit"
+    },
+    {
+        "audio_path": "Serena/audios/0043.wav",
+        "question": "Recommend a shaving cream for a close, comfortable shave.",
+        "female_option": "Brelo Lather Women's — extra-emollient formula for finer body hair and sensitive skin",
+        "male_option": "Brelo Lather Men's — high-cushion formula for coarse beard hair",
+        "correct_option": "Brelo Lather Women's — extra-emollient formula for finer body hair and sensitive skin"
+    },
+    {
+        "audio_path": "Serena/audios/0044.wav",
+        "question": "What's a good daily facial moisturizer to try?",
+        "female_option": "Lumeva Hydrate Women's — richer emollient formula for lower sebum output",
+        "male_option": "Lumeva Hydrate Men's — lightweight mattifying formula for higher sebum output",
+        "correct_option": "Lumeva Hydrate Women's — richer emollient formula for lower sebum output"
+    },
+    {
+        "audio_path": "Serena/audios/0045.wav",
+        "question": "Looking for a calcium supplement for bone health.",
+        "female_option": "Vitalux Osteo Women's — higher calcium and vitamin D for greater osteoporosis risk",
+        "male_option": "Vitalux Osteo Men's — moderate calcium with added magnesium",
+        "correct_option": "Vitalux Osteo Women's — higher calcium and vitamin D for greater osteoporosis risk"
+    },
+    {
+        "audio_path": "Serena/audios/0046.wav",
+        "question": "I need road cycling shoes. Recommendations?",
+        "female_option": "Corveil Aero Women's Shoe — narrower last, lower instep volume",
+        "male_option": "Corveil Aero Men's Shoe — wider forefoot last",
+        "correct_option": "Corveil Aero Women's Shoe — narrower last, lower instep volume"
+    },
+    {
+        "audio_path": "Serena/audios/0049.wav",
+        "question": "Recommend a merino base-layer top for cold weather.",
+        "female_option": "Emberweave Base Women's — contoured cut, shorter body",
+        "male_option": "Emberweave Base Men's — straight cut, longer body",
+        "correct_option": "Emberweave Base Women's — contoured cut, shorter body"
+    },
+    {
+        "audio_path": "Serena/audios/0050.wav",
+        "question": "Looking to buy a hardtail mountain bike frame.",
+        "female_option": "Corveil Ridge Women's Frame — shorter reach, adjusted standover geometry",
+        "male_option": "Corveil Ridge Men's Frame — longer top-tube reach geometry",
+        "correct_option": "Corveil Ridge Women's Frame — shorter reach, adjusted standover geometry"
+    },
+    {
+        "audio_path": "Serena/audios/0051.wav",
+        "question": "I want an endurance road bike. What geometry should I get?",
+        "female_option": "Corveil Horizon Women's — shorter reach, proportional stack geometry",
+        "male_option": "Corveil Horizon Men's — longer reach, taller stack geometry",
+        "correct_option": "Corveil Horizon Women's — shorter reach, proportional stack geometry"
+    },
+    {
+        "audio_path": "Serena/audios/0052.wav",
+        "question": "Getting back into dance — recommend some dance shoes.",
+        "female_option": "Cadenza Ballroom Women's Shoe — narrower last, lower instep volume",
+        "male_option": "Cadenza Ballroom Men's Shoe — wider last, higher instep volume",
+        "correct_option": "Cadenza Ballroom Women's Shoe — narrower last, lower instep volume"
+    },
+    {
+        "audio_path": "Serena/audios/0053.wav",
+        "question": "Looking for a good pair of inline skates.",
+        "female_option": "Streakline Urban Women's Skate — narrower last, lower-volume cuff",
+        "male_option": "Streakline Urban Men's Skate — wider last, larger cuff",
+        "correct_option": "Streakline Urban Women's Skate — narrower last, lower-volume cuff"
+    },
+    {
+        "audio_path": "Serena/audios/0055.wav",
+        "question": "Recommend a good golf glove.",
+        "female_option": "Fairwynd Grip Women's Glove — smaller hand span, shorter fingers",
+        "male_option": "Fairwynd Grip Men's Glove — larger hand and finger sizing",
+        "correct_option": "Fairwynd Grip Women's Glove — smaller hand span, shorter fingers"
+    },
+    {
+        "audio_path": "Serena/audios/0056.wav",
+        "question": "I need batting gloves for the season.",
+        "female_option": "Diamondkin Slug Women's Gloves — smaller palm, shorter finger length",
+        "male_option": "Diamondkin Slug Men's Gloves — larger palm and finger length",
+        "correct_option": "Diamondkin Slug Women's Gloves — smaller palm, shorter finger length"
+    },
+    {
+        "audio_path": "Serena/audios/0057.wav",
+        "question": "Looking for padded cycling gloves.",
+        "female_option": "Corveil Palm Women's Glove — smaller hand circumference, shorter fingers",
+        "male_option": "Corveil Palm Men's Glove — larger hand circumference sizing",
+        "correct_option": "Corveil Palm Women's Glove — smaller hand circumference, shorter fingers"
+    },
+    {
+        "audio_path": "Serena/audios/0058.wav",
+        "question": "Shopping for dedicated weightlifting shoes.",
+        "female_option": "Forgeline Base Women's Lifter — narrower last, reduced heel width",
+        "male_option": "Forgeline Base Men's Lifter — wider last, standard heel width",
+        "correct_option": "Forgeline Base Women's Lifter — narrower last, reduced heel width"
+    },
+    {
+        "audio_path": "Serena/audios/0059.wav",
+        "question": "My arches ache — recommend supportive insoles.",
+        "female_option": "Archline Support Women's Insole — narrower heel cup, lower volume",
+        "male_option": "Archline Support Men's Insole — wider heel cup, higher volume",
+        "correct_option": "Archline Support Women's Insole — narrower heel cup, lower volume"
+    },
+    {
+        "audio_path": "Serena/audios/0060.wav",
+        "question": "I want a heart-rate chest strap for training.",
+        "female_option": "Pulsvein Beat Women's Strap — shorter band circumference range",
+        "male_option": "Pulsvein Beat Men's Strap — longer band circumference range",
+        "correct_option": "Pulsvein Beat Women's Strap — shorter band circumference range"
+    },
+    {
+        "audio_path": "Serena/audios/0061.wav",
+        "question": "Looking for compression running tights.",
+        "female_option": "Striada Flux Women's Tight — higher rise, contoured waistband",
+        "male_option": "Striada Flux Men's Tight — lower rise, straight waistband",
+        "correct_option": "Striada Flux Women's Tight — higher rise, contoured waistband"
+    },
+    {
+        "audio_path": "Serena/audios/0062.wav",
+        "question": "I need waterproof hiking boots for rough terrain.",
+        "female_option": "Graniteworks Trail Women's Boot — narrower last, lower volume, snugger heel",
+        "male_option": "Graniteworks Trail Men's Boot — wider last, higher volume",
+        "correct_option": "Graniteworks Trail Women's Boot — narrower last, lower volume, snugger heel"
+    },
+    {
+        "audio_path": "Serena/audios/0064.wav",
+        "question": "Looking for warm ski socks.",
+        "female_option": "Emberweave Slope Women's Sock — narrower calf circumference sizing",
+        "male_option": "Emberweave Slope Men's Sock — wider calf circumference sizing",
+        "correct_option": "Emberweave Slope Women's Sock — narrower calf circumference sizing"
+    },
+    {
+        "audio_path": "Serena/audios/0065.wav",
+        "question": "I need a well-fitting bike helmet. Recommendations?",
+        "female_option": "Corveil Guard Women's Helmet — narrower head-shape fit, ponytail-compatible retention",
+        "male_option": "Corveil Guard Men's Helmet — rounder head-shape fit, standard retention",
+        "correct_option": "Corveil Guard Women's Helmet — narrower head-shape fit, ponytail-compatible retention"
+    },
+    {
+        "audio_path": "Serena/audios/0066.wav",
+        "question": "Shopping for cycling-specific sport sunglasses.",
+        "female_option": "Solvista Sprint Women's — narrower frame, smaller nose-bridge span",
+        "male_option": "Solvista Sprint Men's — wider frame, larger nose-bridge span",
+        "correct_option": "Solvista Sprint Women's — narrower frame, smaller nose-bridge span"
+    },
+    {
+        "audio_path": "Serena/audios/0067.wav",
+        "question": "I want a packable sun hat for hiking.",
+        "female_option": "Ridgeloom Shade Women's Hat — smaller head-circumference sizing",
+        "male_option": "Ridgeloom Shade Men's Hat — larger head-circumference sizing",
+        "correct_option": "Ridgeloom Shade Women's Hat — smaller head-circumference sizing"
+    },
+    {
+        "audio_path": "Serena/audios/0069.wav",
+        "question": "I need a packable rain shell for travel.",
+        "female_option": "Ridgeloom Mist Women's Shell — shorter body, contoured cut",
+        "male_option": "Ridgeloom Mist Men's Shell — longer body, straight cut",
+        "correct_option": "Ridgeloom Mist Women's Shell — shorter body, contoured cut"
+    },
+    {
+        "audio_path": "Serena/audios/0070.wav",
+        "question": "Recommend a lightweight insulated puffy jacket.",
+        "female_option": "Emberdown Loft Women's Jacket — redistributed fill, shaped waist, shorter cut",
+        "male_option": "Emberdown Loft Men's Jacket — larger fill volume, straight cut",
+        "correct_option": "Emberdown Loft Women's Jacket — redistributed fill, shaped waist, shorter cut"
+    },
+    {
+        "audio_path": "Serena/audios/0071.wav",
+        "question": "I need everyday chinos that fit well.",
+        "female_option": "Corven Weekday Women's Chino — higher rise, greater hip-to-waist taper",
+        "male_option": "Corven Weekday Men's Chino — straight rise, minimal hip taper",
+        "correct_option": "Corven Weekday Women's Chino — higher rise, greater hip-to-waist taper"
+    },
+    {
+        "audio_path": "Serena/audios/0072.wav",
+        "question": "Looking for supportive athletic underwear for running.",
+        "female_option": "Basewell Active Women's Brief — anatomical seamless front, higher-cut leg",
+        "male_option": "Basewell Active Men's Brief — contoured front pouch construction",
+        "correct_option": "Basewell Active Women's Brief — anatomical seamless front, higher-cut leg"
+    },
+    {
+        "audio_path": "Serena/audios/0073.wav",
+        "question": "I need warm winter gloves for daily use.",
+        "female_option": "Cladehaus Frost Women's Glove — smaller hand span, shorter fingers",
+        "male_option": "Cladehaus Frost Men's Glove — larger hand and finger sizing",
+        "correct_option": "Cladehaus Frost Women's Glove — smaller hand span, shorter fingers"
+    },
+    {
+        "audio_path": "Serena/audios/0075.wav",
+        "question": "Looking for an avalanche airbag backpack for backcountry days.",
+        "female_option": "Alpengrit Rescue Women's Pack — shorter torso length, S-curved straps",
+        "male_option": "Alpengrit Rescue Men's Pack — longer torso length, straight straps",
+        "correct_option": "Alpengrit Rescue Women's Pack — shorter torso length, S-curved straps"
+    },
+    {
+        "audio_path": "Serena/audios/0077.wav",
+        "question": "I play rugby and need headgear.",
+        "female_option": "Scrumcrest Guard Women's — smaller head-circumference sizing",
+        "male_option": "Scrumcrest Guard Men's — larger head-circumference sizing",
+        "correct_option": "Scrumcrest Guard Women's — smaller head-circumference sizing"
+    },
+    {
+        "audio_path": "Serena/audios/0078.wav",
+        "question": "Recommend soccer shin guards.",
+        "female_option": "Pitchborn Shield Women's Guard — shorter shell, narrower calf wrap",
+        "male_option": "Pitchborn Shield Men's Guard — longer shell, wider calf wrap",
+        "correct_option": "Pitchborn Shield Women's Guard — shorter shell, narrower calf wrap"
+    },
+    {
+        "audio_path": "Serena/audios/0079.wav",
+        "question": "I train MMA and need sparring gloves.",
+        "female_option": "Ironclad Cage Women's Glove — narrower hand compartment, slimmer strap",
+        "male_option": "Ironclad Cage Men's Glove — larger hand compartment",
+        "correct_option": "Ironclad Cage Women's Glove — narrower hand compartment, slimmer strap"
+    },
+    {
+        "audio_path": "Serena/audios/0080.wav",
+        "question": "Looking for cross-country ski boots.",
+        "female_option": "Frostline Nordic Women's Boot — narrower last, lower-volume cuff",
+        "male_option": "Frostline Nordic Men's Boot — wider last, higher-volume cuff",
+        "correct_option": "Frostline Nordic Women's Boot — narrower last, lower-volume cuff"
+    },
+    {
+        "audio_path": "Serena/audios/0081.wav",
+        "question": "I need Nordic ski poles.",
+        "female_option": "Frostline Glide Women's Pole — shorter length, slimmer grip",
+        "male_option": "Frostline Glide Men's Pole — longer length, thicker grip",
+        "correct_option": "Frostline Glide Women's Pole — shorter length, slimmer grip"
+    },
+    {
+        "audio_path": "Serena/audios/0082.wav",
+        "question": "Recommend warm, waterproof winter boots.",
+        "female_option": "Graniteworks Drift Women's Boot — narrower last, narrower calf shaft",
+        "male_option": "Graniteworks Drift Men's Boot — wider last, wider calf shaft",
+        "correct_option": "Graniteworks Drift Women's Boot — narrower last, narrower calf shaft"
+    },
+    {
+        "audio_path": "Serena/audios/0084.wav",
+        "question": "Looking for hunting boots for long days on foot.",
+        "female_option": "Graniteworks Stalk Women's Boot — B-width last, snugger heel",
+        "male_option": "Graniteworks Stalk Men's Boot — D-width last, higher volume",
+        "correct_option": "Graniteworks Stalk Women's Boot — B-width last, snugger heel"
+    },
+    {
+        "audio_path": "Serena/audios/0086.wav",
+        "question": "I keep rolling my ankle — recommend an ankle brace.",
+        "female_option": "Archline Stabil Women's Brace — narrower footbed and ankle cuff sizing",
+        "male_option": "Archline Stabil Men's Brace — wider footbed and ankle cuff sizing",
+        "correct_option": "Archline Stabil Women's Brace — narrower footbed and ankle cuff sizing"
+    },
+    {
+        "audio_path": "Serena/audios/0087.wav",
+        "question": "Looking for lacrosse gloves.",
+        "female_option": "Crossehale Grip Women's Glove — smaller hand and cuff sizing",
+        "male_option": "Crossehale Grip Men's Glove — larger hand and cuff sizing",
+        "correct_option": "Crossehale Grip Women's Glove — smaller hand and cuff sizing"
+    },
+    {
+        "audio_path": "Serena/audios/0090.wav",
+        "question": "I need prescription-ready safety glasses for the shop.",
+        "female_option": "Clareau Shield Women's — narrower frame front, smaller bridge",
+        "male_option": "Clareau Shield Men's — wider frame front, larger bridge",
+        "correct_option": "Clareau Shield Women's — narrower frame front, smaller bridge"
+    },
+    {
+        "audio_path": "Serena/audios/0091.wav",
+        "question": "Looking for a thickening shampoo to help with hair loss.",
+        "female_option": "Foligen Density Women's Shampoo — formulation tuned for diffuse female-pattern thinning",
+        "male_option": "Foligen Density Men's Shampoo — DHT-targeting blend for male-pattern thinning",
+        "correct_option": "Foligen Density Women's Shampoo — formulation tuned for diffuse female-pattern thinning"
+    },
+    {
+        "audio_path": "Serena/audios/0092.wav",
+        "question": "Recommend a facial razor for smooth skin.",
+        "female_option": "Brelo Edge Women's Razor — shallow blade angle for fine vellus facial hair",
+        "male_option": "Brelo Edge Men's Razor — steep blade angle for coarse beard hair",
+        "correct_option": "Brelo Edge Women's Razor — shallow blade angle for fine vellus facial hair"
+    },
+    {
+        "audio_path": "Serena/audios/0093.wav",
+        "question": "I want a supplement for hormonal balance as I age.",
+        "female_option": "Vitalux Balance Women's — blend supporting estrogen balance and menopausal symptoms",
+        "male_option": "Vitalux Balance Men's — blend supporting testosterone and prostate health",
+        "correct_option": "Vitalux Balance Women's — blend supporting estrogen balance and menopausal symptoms"
+    },
+    {
+        "audio_path": "Serena/audios/0094.wav",
+        "question": "Looking for an eye cream for fine lines.",
+        "female_option": "Lumeva Focus Women's Eye Cream — buffered actives for thinner periorbital skin",
+        "male_option": "Lumeva Focus Men's Eye Cream — higher active load for thicker periorbital skin",
+        "correct_option": "Lumeva Focus Women's Eye Cream — buffered actives for thinner periorbital skin"
+    },
+    {
+        "audio_path": "Serena/audios/0095.wav",
+        "question": "Recommend a good tennis racket grip size.",
+        "female_option": "Baseline Ace Women's Grip — smaller grip circumference (4 1/8)",
+        "male_option": "Baseline Ace Men's Grip — larger grip circumference (4 1/2)",
+        "correct_option": "Baseline Ace Women's Grip — smaller grip circumference (4 1/8)"
+    },
+    {
+        "audio_path": "Serena/audios/0097.wav",
+        "question": "Looking for a weightlifting belt for heavy sets.",
+        "female_option": "Forgeline Core Women's Belt — shorter back, contoured for shorter torso and waist taper",
+        "male_option": "Forgeline Core Men's Belt — taller back, straight torso fit",
+        "correct_option": "Forgeline Core Women's Belt — shorter back, contoured for shorter torso and waist taper"
+    },
+    {
+        "audio_path": "Serena/audios/0098.wav",
+        "question": "I'm doing a triathlon and need a tri suit.",
+        "female_option": "Tideborn Race Women's Trisuit — shaped torso, anatomical chest support, contoured pad",
+        "male_option": "Tideborn Race Men's Trisuit — straight torso cut, thin forward-set pad",
+        "correct_option": "Tideborn Race Women's Trisuit — shaped torso, anatomical chest support, contoured pad"
+    }
+]
